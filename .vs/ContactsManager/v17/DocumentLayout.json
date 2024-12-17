@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SAI ASHISH\\Desktop\\Projects\\ContactsManager\\ContactsManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02C10907-A639-45D3-8D6C-E4E3330E1988}|ContactsManager.Services\\ContactsManager.Services.csproj|c:\\users\\sai ashish\\desktop\\projects\\contactsmanager\\contactsmanager\\contactsmanager.services\\countriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C10907-A639-45D3-8D6C-E4E3330E1988}|ContactsManager.Services\\ContactsManager.Services.csproj|solutionrelative:contactsmanager.services\\countriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59975217-9DB9-4ECB-A8E8-A4314547C23F}|ContactsManager.ServiceContracts\\ContactsManager.ServiceContracts.csproj|c:\\users\\sai ashish\\desktop\\projects\\contactsmanager\\contactsmanager\\contactsmanager.servicecontracts\\dto\\countries\\countryaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59975217-9DB9-4ECB-A8E8-A4314547C23F}|ContactsManager.ServiceContracts\\ContactsManager.ServiceContracts.csproj|solutionrelative:contactsmanager.servicecontracts\\dto\\countries\\countryaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD6603D2-8A59-4BA7-8840-7EAACA819640}|ContactsManager.Tests\\ContactsManager.Tests.csproj|c:\\users\\sai ashish\\desktop\\projects\\contactsmanager\\contactsmanager\\contactsmanager.tests\\countriesservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD6603D2-8A59-4BA7-8840-7EAACA819640}|ContactsManager.Tests\\ContactsManager.Tests.csproj|solutionrelative:contactsmanager.tests\\countriesservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59975217-9DB9-4ECB-A8E8-A4314547C23F}|ContactsManager.ServiceContracts\\ContactsManager.ServiceContracts.csproj|c:\\users\\sai ashish\\desktop\\projects\\contactsmanager\\contactsmanager\\contactsmanager.servicecontracts\\icountriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59975217-9DB9-4ECB-A8E8-A4314547C23F}|ContactsManager.ServiceContracts\\ContactsManager.ServiceContracts.csproj|solutionrelative:contactsmanager.servicecontracts\\icountriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59975217-9DB9-4ECB-A8E8-A4314547C23F}|ContactsManager.ServiceContracts\\ContactsManager.ServiceContracts.csproj|c:\\users\\sai ashish\\desktop\\projects\\contactsmanager\\contactsmanager\\contactsmanager.servicecontracts\\dto\\countries\\countryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59975217-9DB9-4ECB-A8E8-A4314547C23F}|ContactsManager.ServiceContracts\\ContactsManager.ServiceContracts.csproj|solutionrelative:contactsmanager.servicecontracts\\dto\\countries\\countryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8661F7-271E-45DF-9161-D878A04F092E}|ContactsManager.App\\ContactsManager.App.csproj|c:\\users\\sai ashish\\desktop\\projects\\contactsmanager\\contactsmanager\\contactsmanager.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8661F7-271E-45DF-9161-D878A04F092E}|ContactsManager.App\\ContactsManager.App.csproj|solutionrelative:contactsmanager.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CountriesService.cs",
+              "DocumentMoniker": "C:\\Users\\SAI ASHISH\\Desktop\\Projects\\ContactsManager\\ContactsManager\\ContactsManager.Services\\CountriesService.cs",
+              "RelativeDocumentMoniker": "ContactsManager.Services\\CountriesService.cs",
+              "ToolTip": "C:\\Users\\SAI ASHISH\\Desktop\\Projects\\ContactsManager\\ContactsManager\\ContactsManager.Services\\CountriesService.cs",
+              "RelativeToolTip": "ContactsManager.Services\\CountriesService.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:07:08.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CountriesServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\SAI ASHISH\\Desktop\\Projects\\ContactsManager\\ContactsManager\\ContactsManager.Tests\\CountriesServiceTest.cs",
+              "RelativeDocumentMoniker": "ContactsManager.Tests\\CountriesServiceTest.cs",
+              "ToolTip": "C:\\Users\\SAI ASHISH\\Desktop\\Projects\\ContactsManager\\ContactsManager\\ContactsManager.Tests\\CountriesServiceTest.cs",
+              "RelativeToolTip": "ContactsManager.Tests\\CountriesServiceTest.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwEgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:04:06.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountryAddRequest.cs",
+              "DocumentMoniker": "C:\\Users\\SAI ASHISH\\Desktop\\Projects\\ContactsManager\\ContactsManager\\ContactsManager.ServiceContracts\\DTO\\Countries\\CountryAddRequest.cs",
+              "RelativeDocumentMoniker": "ContactsManager.ServiceContracts\\DTO\\Countries\\CountryAddRequest.cs",
+              "ToolTip": "C:\\Users\\SAI ASHISH\\Desktop\\Projects\\ContactsManager\\ContactsManager\\ContactsManager.ServiceContracts\\DTO\\Countries\\CountryAddRequest.cs",
+              "RelativeToolTip": "ContactsManager.ServiceContracts\\DTO\\Countries\\CountryAddRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:54:51.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CountryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\SAI ASHISH\\Desktop\\Projects\\ContactsManager\\ContactsManager\\ContactsManager.ServiceContracts\\DTO\\Countries\\CountryResponse.cs",
+              "RelativeDocumentMoniker": "ContactsManager.ServiceContracts\\DTO\\Countries\\CountryResponse.cs",
+              "ToolTip": "C:\\Users\\SAI ASHISH\\Desktop\\Projects\\ContactsManager\\ContactsManager\\ContactsManager.ServiceContracts\\DTO\\Countries\\CountryResponse.cs",
+              "RelativeToolTip": "ContactsManager.ServiceContracts\\DTO\\Countries\\CountryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:53:47.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICountriesService.cs",
+              "DocumentMoniker": "C:\\Users\\SAI ASHISH\\Desktop\\Projects\\ContactsManager\\ContactsManager\\ContactsManager.ServiceContracts\\ICountriesService.cs",
+              "RelativeDocumentMoniker": "ContactsManager.ServiceContracts\\ICountriesService.cs",
+              "ToolTip": "C:\\Users\\SAI ASHISH\\Desktop\\Projects\\ContactsManager\\ContactsManager\\ContactsManager.ServiceContracts\\ICountriesService.cs",
+              "RelativeToolTip": "ContactsManager.ServiceContracts\\ICountriesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:51:50.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SAI ASHISH\\Desktop\\Projects\\ContactsManager\\ContactsManager\\ContactsManager.App\\Program.cs",
+              "RelativeDocumentMoniker": "ContactsManager.App\\Program.cs",
+              "ToolTip": "C:\\Users\\SAI ASHISH\\Desktop\\Projects\\ContactsManager\\ContactsManager\\ContactsManager.App\\Program.cs",
+              "RelativeToolTip": "ContactsManager.App\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:27:56.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

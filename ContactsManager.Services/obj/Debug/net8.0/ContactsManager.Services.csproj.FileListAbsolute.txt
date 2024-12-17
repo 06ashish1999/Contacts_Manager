@@ -1,0 +1,17 @@
+C:\Users\SAI ASHISH\Desktop\Projects\ContactsManager\ContactsManager\ContactsManager.Services\bin\Debug\net8.0\ContactsManager.Services.deps.json
+C:\Users\SAI ASHISH\Desktop\Projects\ContactsManager\ContactsManager\ContactsManager.Services\bin\Debug\net8.0\ContactsManager.Services.dll
+C:\Users\SAI ASHISH\Desktop\Projects\ContactsManager\ContactsManager\ContactsManager.Services\bin\Debug\net8.0\ContactsManager.Services.pdb
+C:\Users\SAI ASHISH\Desktop\Projects\ContactsManager\ContactsManager\ContactsManager.Services\bin\Debug\net8.0\ContactsManager.Entities.dll
+C:\Users\SAI ASHISH\Desktop\Projects\ContactsManager\ContactsManager\ContactsManager.Services\bin\Debug\net8.0\ContactsManager.ServiceContracts.dll
+C:\Users\SAI ASHISH\Desktop\Projects\ContactsManager\ContactsManager\ContactsManager.Services\bin\Debug\net8.0\ContactsManager.ServiceContracts.pdb
+C:\Users\SAI ASHISH\Desktop\Projects\ContactsManager\ContactsManager\ContactsManager.Services\bin\Debug\net8.0\ContactsManager.Entities.pdb
+C:\Users\SAI ASHISH\Desktop\Projects\ContactsManager\ContactsManager\ContactsManager.Services\obj\Debug\net8.0\ContactsManager.Services.csproj.AssemblyReference.cache
+C:\Users\SAI ASHISH\Desktop\Projects\ContactsManager\ContactsManager\ContactsManager.Services\obj\Debug\net8.0\ContactsManager.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAI ASHISH\Desktop\Projects\ContactsManager\ContactsManager\ContactsManager.Services\obj\Debug\net8.0\ContactsManager.Services.AssemblyInfoInputs.cache
+C:\Users\SAI ASHISH\Desktop\Projects\ContactsManager\ContactsManager\ContactsManager.Services\obj\Debug\net8.0\ContactsManager.Services.AssemblyInfo.cs
+C:\Users\SAI ASHISH\Desktop\Projects\ContactsManager\ContactsManager\ContactsManager.Services\obj\Debug\net8.0\ContactsManager.Services.csproj.CoreCompileInputs.cache
+C:\Users\SAI ASHISH\Desktop\Projects\ContactsManager\ContactsManager\ContactsManager.Services\obj\Debug\net8.0\Contacts.826809A3.Up2Date
+C:\Users\SAI ASHISH\Desktop\Projects\ContactsManager\ContactsManager\ContactsManager.Services\obj\Debug\net8.0\ContactsManager.Services.dll
+C:\Users\SAI ASHISH\Desktop\Projects\ContactsManager\ContactsManager\ContactsManager.Services\obj\Debug\net8.0\refint\ContactsManager.Services.dll
+C:\Users\SAI ASHISH\Desktop\Projects\ContactsManager\ContactsManager\ContactsManager.Services\obj\Debug\net8.0\ContactsManager.Services.pdb
+C:\Users\SAI ASHISH\Desktop\Projects\ContactsManager\ContactsManager\ContactsManager.Services\obj\Debug\net8.0\ref\ContactsManager.Services.dll

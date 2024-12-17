@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "5VV+i7gy0YvzbUc9fTqsLCQeVaHhM3suOqlaf6QANpk=",
+  "Source": "ContactsManager.App",
+  "BasePath": "_content/ContactsManager.App",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ContactsManager.App\\wwwroot",
+      "Source": "ContactsManager.App",
+      "ContentRoot": "C:\\Users\\SAI ASHISH\\Desktop\\Projects\\ContactsManager\\ContactsManager\\ContactsManager.App\\wwwroot\\",
+      "BasePath": "_content/ContactsManager.App",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

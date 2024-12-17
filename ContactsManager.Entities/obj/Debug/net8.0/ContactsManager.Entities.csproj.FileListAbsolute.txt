@@ -1,0 +1,11 @@
+C:\Users\SAI ASHISH\Desktop\Projects\ContactsManager\ContactsManager\ContactsManager.Entities\bin\Debug\net8.0\ContactsManager.Entities.deps.json
+C:\Users\SAI ASHISH\Desktop\Projects\ContactsManager\ContactsManager\ContactsManager.Entities\bin\Debug\net8.0\ContactsManager.Entities.dll
+C:\Users\SAI ASHISH\Desktop\Projects\ContactsManager\ContactsManager\ContactsManager.Entities\bin\Debug\net8.0\ContactsManager.Entities.pdb
+C:\Users\SAI ASHISH\Desktop\Projects\ContactsManager\ContactsManager\ContactsManager.Entities\obj\Debug\net8.0\ContactsManager.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAI ASHISH\Desktop\Projects\ContactsManager\ContactsManager\ContactsManager.Entities\obj\Debug\net8.0\ContactsManager.Entities.AssemblyInfoInputs.cache
+C:\Users\SAI ASHISH\Desktop\Projects\ContactsManager\ContactsManager\ContactsManager.Entities\obj\Debug\net8.0\ContactsManager.Entities.AssemblyInfo.cs
+C:\Users\SAI ASHISH\Desktop\Projects\ContactsManager\ContactsManager\ContactsManager.Entities\obj\Debug\net8.0\ContactsManager.Entities.csproj.CoreCompileInputs.cache
+C:\Users\SAI ASHISH\Desktop\Projects\ContactsManager\ContactsManager\ContactsManager.Entities\obj\Debug\net8.0\ContactsManager.Entities.dll
+C:\Users\SAI ASHISH\Desktop\Projects\ContactsManager\ContactsManager\ContactsManager.Entities\obj\Debug\net8.0\refint\ContactsManager.Entities.dll
+C:\Users\SAI ASHISH\Desktop\Projects\ContactsManager\ContactsManager\ContactsManager.Entities\obj\Debug\net8.0\ContactsManager.Entities.pdb
+C:\Users\SAI ASHISH\Desktop\Projects\ContactsManager\ContactsManager\ContactsManager.Entities\obj\Debug\net8.0\ref\ContactsManager.Entities.dll

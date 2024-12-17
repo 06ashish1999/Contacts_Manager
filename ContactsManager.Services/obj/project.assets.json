@@ -1,0 +1,120 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "ContactsManager.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ContactsManager.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ContactsManager.Entities.dll": {}
+        }
+      },
+      "ContactsManager.ServiceContracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ContactsManager.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ContactsManager.ServiceContracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ContactsManager.ServiceContracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ContactsManager.Entities/1.0.0": {
+      "type": "project",
+      "path": "../ContactsManager.Entities/ContactsManager.Entities.csproj",
+      "msbuildProject": "../ContactsManager.Entities/ContactsManager.Entities.csproj"
+    },
+    "ContactsManager.ServiceContracts/1.0.0": {
+      "type": "project",
+      "path": "../ContactsManager.ServiceContracts/ContactsManager.ServiceContracts.csproj",
+      "msbuildProject": "../ContactsManager.ServiceContracts/ContactsManager.ServiceContracts.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "ContactsManager.ServiceContracts >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\SAI ASHISH\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\SAI ASHISH\\Desktop\\Projects\\ContactsManager\\ContactsManager\\ContactsManager.Services\\ContactsManager.Services.csproj",
+      "projectName": "ContactsManager.Services",
+      "projectPath": "C:\\Users\\SAI ASHISH\\Desktop\\Projects\\ContactsManager\\ContactsManager\\ContactsManager.Services\\ContactsManager.Services.csproj",
+      "packagesPath": "C:\\Users\\SAI ASHISH\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SAI ASHISH\\Desktop\\Projects\\ContactsManager\\ContactsManager\\ContactsManager.Services\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\SAI ASHISH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\SAI ASHISH\\Desktop\\Projects\\ContactsManager\\ContactsManager\\ContactsManager.ServiceContracts\\ContactsManager.ServiceContracts.csproj": {
+              "projectPath": "C:\\Users\\SAI ASHISH\\Desktop\\Projects\\ContactsManager\\ContactsManager\\ContactsManager.ServiceContracts\\ContactsManager.ServiceContracts.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
